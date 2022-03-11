@@ -1,5 +1,5 @@
 # Breast Cancer Analysis
-###### Author - Ayush Sharma 
+###### Author - Nikolay Yurashku
 
 Predicting breast cancer based on various atributes caputred in the breast images
 
